@@ -368,3 +368,15 @@
 2019-04-25 12:09:36,424 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
 2019-04-25 12:09:36,434 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-04-25 12:09:36,434 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources
+2019-04-25 12:13:05,040 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 12:13:05,041 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 12:13:06,211 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2019-04-25 12:13:06,249 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2019-04-25 12:13:06,255 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 12:13:06,255 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources
+2019-04-25 12:19:52,752 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 12:19:52,753 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 12:19:52,813 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2019-04-25 12:19:52,836 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2019-04-25 12:19:52,843 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 12:19:52,848 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources

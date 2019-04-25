@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\amine\git\WikiFilmProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1956320113.index
+\WikifilmProject\src\main\java
+C:\Users\amine\git\WikiFilmProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\283515696.index
+\WikifilmProject\src\main\java
+C:\Users\amine\git\WikiFilmProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4208185621.index
+\WikifilmProject\src\main\java
+C:\Users\amine\git\WikiFilmProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3436684078.index
+\WikifilmProject\src\main\java

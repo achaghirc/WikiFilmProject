@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Cabin:400);
+
+head{
+    float: left;
+    width: 100%;
+    margin: 0px;
+}
+body{
+    float: left;
+    width: 100%;
+    margin: 0px;
+    background-color: #f4f4f4;
+}
+.titulo_peli{
+	margin: 5px;
+    width: 150%;
+    align-content: center;
+    display: flex;
+    padding: 25px;
+    color: black
+}
+.datos_pelicula{
+	float: rigth;
+	width: 50%;
+	margin: 25px;
+}
