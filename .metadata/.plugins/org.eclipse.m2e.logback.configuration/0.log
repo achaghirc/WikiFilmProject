@@ -380,3 +380,38 @@
 2019-04-25 12:19:52,836 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
 2019-04-25 12:19:52,843 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-04-25 12:19:52,848 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources
+2019-04-25 13:45:50,576 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-25 13:46:03,097 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:46:03,134 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-04-25 13:46:04,356 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2019-04-25 13:46:04,469 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2019-04-25 13:46:04,472 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:46:04,472 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources
+2019-04-25 13:47:29,225 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:29,230 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 13:47:29,299 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2019-04-25 13:47:29,321 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2019-04-25 13:47:29,322 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:29,323 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources
+2019-04-25 13:47:31,385 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:31,385 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 13:47:31,440 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2019-04-25 13:47:31,463 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2019-04-25 13:47:31,465 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:31,465 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources
+2019-04-25 13:47:40,917 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:40,922 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 13:47:40,970 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2019-04-25 13:47:40,990 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2019-04-25 13:47:40,992 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:40,996 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources
+2019-04-25 13:47:53,783 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:53,784 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 13:47:53,853 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2019-04-25 13:47:53,890 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2019-04-25 13:47:53,891 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:53,891 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\amine\OneDrive - UNIVERSIDAD DE SEVILLA\Segundo Cuatrimestre\AISS\WorkSpaceAISS\WikifilmProject\src\test\resources
+2019-04-25 13:47:55,012 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-25 13:47:55,020 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-25 13:47:55,074 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2019-04-25 13:47:55,097 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
